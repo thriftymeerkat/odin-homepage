@@ -15,4 +15,4 @@ Full project specs can be found [here](https://www.theodinproject.com/lessons/no
 - https://www.svgrepo.com/
 
 ##### Live Preview
-- https://mjcw88.github.io/odin-homepage/
+- https://thriftymeerkat.github.io/odin-homepage/
